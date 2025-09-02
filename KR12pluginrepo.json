@@ -1567,6 +1567,7 @@
     "harp"
   ],
   "DalamudApiLevel": 12,
+  "RepoUrl": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo",
   "DownloadLinkInstall": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/HarpHero.zip",
   "DownloadLinkUpdate": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/HarpHero.zip",
   "LoadRequiredState": 0,
@@ -1577,5 +1578,6 @@
   "AcceptsFeedback": true
 }
 ]
+
 
 
