@@ -1557,7 +1557,7 @@
   "Name": "Harp Hero",
   "InternalName": "HarpHero",
   "AssemblyVersion": "1.12.0.0",
-  "Description": "Assist mode for bards who want to play music but don't know how to.\n- does NOT play anything automatically\n- needs MIDI files to work\n- adapts MIDI tracks to fit in game limitations for you\n- you will be scored :O",
+  "Description": "음악을 연주하고 싶지만 방법을 모르는 음유시인을 위한 보조 모드입니다.\n- 자동으로 연주하지 않습니다.\n- MIDI 파일이 필요합니다.\n- MIDI 트랙을 게임 내 제한에 맞게 변환해줍니다.\n- 점수가 매겨집니다 :O",
   "ApplicableVersion": "any",
   "Tags": [
     "bard",
@@ -1573,8 +1573,9 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "Bard performance assistant",
+  "Punchline": "음유시인 연주 보조",
   "AcceptsFeedback": true
 }
 ]
+
 
