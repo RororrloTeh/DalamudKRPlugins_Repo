@@ -1554,7 +1554,7 @@
 },
 {
   "Author": "[KR] MgAl2O4",
-  "Name": "Harp Hero",
+  "Name": "Harp Hero (API 12)",
   "InternalName": "HarpHero",
   "AssemblyVersion": "1.12.0.0",
   "Description": "음악을 연주하고 싶지만 방법을 모르는 음유시인을 위한 보조 모드입니다.\n- 자동으로 연주하지 않습니다.\n- MIDI 파일이 필요합니다.\n- MIDI 트랙을 게임 내 제한에 맞게 변환해줍니다.\n- 점수가 매겨집니다 :O",
