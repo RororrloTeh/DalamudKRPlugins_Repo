@@ -291,7 +291,7 @@
     "DownloadLinkUpdate": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/Avarice.zip",
     "AssemblyVersion": "2.1.1.2",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": "13",
+    "DalamudApiLevel": "12",
     "Changelog": "- 7.21",
     "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
   },
