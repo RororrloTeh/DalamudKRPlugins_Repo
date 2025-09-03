@@ -1636,6 +1636,76 @@
   "LoadPriority": 69547,
   "Punchline": "음유시인 연주 보조",
   "AcceptsFeedback": true
-}
+},
+  {
+    "Author": "[KR] Haselnussbomber",
+    "Name": "HaselTweaks",
+    "InternalName": "HaselTweaks",
+    "AssemblyVersion": "36.0.0.4",
+    "Description": "Keep on tweaking.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 1,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
+    "Punchline": "A collection of quality of life tweaks.",
+    "AcceptsFeedback": true,
+    "Changelog": "Enhanced Experience Bar\n\n- Fixed: Fixed Cosmic Research Bar showing class score on stage 9, when there are 14 now.",
+    "DownloadCount": 0,
+    "LastUpdate": 1756903118,
+    "DownloadLinkInstall": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/HaselTweaks.zip",
+    "DownloadLinkUpdate": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/HaselTweaks.zip"
+  },
+  {
+    "Author": "[KR] Taurenkey, NightmareXIV",
+    "Name": "Saucy",
+    "Punchline": "When working for MGP is too much effort.",
+    "Description": "Automates certain Gold Saucer mini-games.",
+    "Tags": [
+      "gold saucer",
+      "mgp",
+      "automation"
+    ],
+    "InternalName": "Saucy",
+    "RepoUrl": "https://github.com/PunishXIV/Saucy",
+    "DownloadCount": 425329,
+    "LastUpdate": 1755277576897,
+    "DownloadLinkInstall": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/Saucy.zip",
+    "DownloadLinkUpdate": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/Saucy.zip",
+    "AssemblyVersion": "1.4.2.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "12",
+    "Changelog": "- Mini cactpot fixes (by Jaksuhn)\n- Triple triad stop command (by  t0mball)",
+    "TestingAssemblyVersion": "1.3.0.4",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/testing.zip",
+    "TestingDalamudApiLevel": "9",
+    "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
+  },
+  {
+    "Author": "[KR] croizat",
+    "Name": "CBT 🐎",
+    "Punchline": "Extra illegal",
+    "Description": "Yet another tweaks collection plugin.",
+    "Tags": [
+      "automation",
+      "plugin",
+      "tweaks"
+    ],
+    "InternalName": "Automaton",
+    "RepoUrl": "https://github.com/Jaksuhn/Automaton",
+    "DownloadCount": 236852,
+    "LastUpdate": 1756657887924,
+    "DownloadLinkInstall": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/Automaton.zip",
+    "DownloadLinkUpdate": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/Automaton.zip",
+    "AssemblyVersion": "69.75",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "12",
+    "Changelog": "",
+    "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png"
+  }
 ]
+
 
