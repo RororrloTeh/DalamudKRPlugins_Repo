@@ -1705,7 +1705,53 @@
   "DownloadLinkInstall": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/ChillFrames.zip",
   "DownloadLinkUpdate": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/ChillFrames.zip",
   "AcceptsFeedback": false,
-}
+},
+  {
+  "Author": "[KR] Dragon",
+  "Name": "Hunt Buddy",
+  "InternalName": "HuntBuddy",
+  "AssemblyVersion": "1.2.1.0",
+  "Description": "A daily hunt bill tracker",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/SheepGoMeh/HuntBuddy",
+  "Tags": [
+    "Hunt",
+    "Daily",
+    "Utility"
+  ],
+  "DalamudApiLevel": 12,
+  "DownloadLinkInstall": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/HuntBuddy.zip",
+  "DownloadLinkUpdate": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/HuntBuddy.zip",
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Helps you track your daily hunt bills",
+  "AcceptsFeedback": true
+},
+{
+    "Name": "Untarnished Heart",
+    "InternalName": "UntarnishedHeart",
+    "AssemblyVersion": "0.2.4.0",
+    "Author": "[KR] AtmoOmen",
+    "Punchline": "T직업 전용 인스턴스 자동화 업적 파밍 도구",
+    "Description": "T직업 전용 인스턴스 자동화 업적 파밍 도구\n주의: 전투 진행은 다른 플러그인을 이용해 직접 해결해야 합니다",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "자동",
+      "T직업",
+      "탱커",
+      "업적",
+      "심연의 장명"
+    ],
+    "DalamudApiLevel": 12,
+    "AcceptsFeedback": true,
+    "IconUrl": "https://gh.atmoomen.top/StaticAssets/main/UntarnishedHeart/image/icon.png",
+    "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins",
+    "DownloadLinkInstall": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/UntarnishedHeart.zip",
+    "DownloadLinkUpdate": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/UntarnishedHeart.zip"
+  }
 ]
+
 
 
