@@ -1530,14 +1530,14 @@
     "LastUpdate": 1756707938151,
     "IsHide": false,
     "CanUnloadAsync": false,
-    "DownloadLinkInstall": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/WrathCombo_1.0.1.17-KRRelease.zip",
-    "DownloadLinkUpdate": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/WrathCombo_1.0.1.17-KRRelease.zip",
-    "AssemblyVersion": "1.0.1.17",
+    "DownloadLinkInstall": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/WrathCombo.zip",
+    "DownloadLinkUpdate": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/WrathCombo.zip",
+    "AssemblyVersion": "1.0.2.7",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
     "Changelog": "Please check the project's GitHub or Discord for a full changelog.",
-    "TestingAssemblyVersion": "1.0.1.17",
-    "DownloadLinkTesting": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/WrathCombo_1.0.1.17-KRRelease.zip",
+    "TestingAssemblyVersion": "1.0.2.7",
+    "DownloadLinkTesting": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/Plugins/WrathCombo.zip",
     "TestingDalamudApiLevel": "12",
     "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png"
   },
@@ -1707,4 +1707,5 @@
   "AcceptsFeedback": false,
 }
 ]
+
 
