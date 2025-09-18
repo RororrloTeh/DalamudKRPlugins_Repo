@@ -23,5 +23,25 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/RororrloTeh/DalamudKRPlugins_Repo/main/Plugins/DailyRoutinesKR.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/Plugins/DailyRoutines/latest_test.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/RororrloTeh/DalamudKRPlugins_Repo/main/Plugins/DailyRoutinesKR.zip"
-  }
+  },
+  {
+        "Author": "NiGuangOwO, Small_Miao (moewcorp)",
+        "Name": "NyaDraw",
+        "Punchline": "下一代小画家",
+        "Description": "有黄圈你不躲?",
+        "Tags": [
+            "vfx",
+            "omen",
+            "spl"
+        ],
+        "InternalName": "NyaDraw",
+        "AssemblyVersion": "1.0.12.43",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/RororrloTeh/DalamudKRPlugins_Repo/main/Plugins/NyaDraw.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/RororrloTeh/DalamudKRPlugins_Repo/main/Plugins/NyaDraw.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1758036271"
+    }
 ]
