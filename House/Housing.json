@@ -1,0 +1,50 @@
+[
+  {
+    "Author": "RororrloTeh",
+    "Name": "HousingChecker",
+    "Description": "하우징 구역의 빈집을 추적하여 채팅에 표기해줍니다.(PaissaHouse 플러그인을 키고 해당 플러그인을 켜주세요)",
+    "Punchline": "하우징 구역의 빈집을 추적하여 채팅에 표기해줍니다.",
+    "InternalName": "HousingChecker",
+    "AssemblyVersion": "0.0.0.5",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "housing",
+      "float",
+      "place",
+      "glitch",
+      "furnishing",
+      "LeonBlade"
+    ],
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://gh.atmoomen.top/HousingChecker/main/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1766263823,
+    "DownloadCount": 62187,
+    "DownloadLinkInstall": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/House/HousingChecker.zip",
+    "DownloadLinkTesting": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/House/HousingChecker.zip",
+    "DownloadLinkUpdate": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/House/HousingChecker.zip"
+  },
+  {
+  "Author": "zhudotexe",
+  "Name": "PaissaHouse",
+  "InternalName": "autoSweep",
+  "AssemblyVersion": "1.4.9.0",
+  "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\nView the list of all houses available on a world at https://paissadb.zhu.codes/!\n\nWant to contribute? Check out the repository (globe icon below) for instructions.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
+  "Tags": [
+    "housing"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Crowdsourced housing alerts and lottery tracking for all.",
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/House/PaissaHouse(autoSweep).zip",
+  "DownloadLinkTesting": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/House/PaissaHouse(autoSweep).zip",
+  "DownloadLinkUpdate": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/House/PaissaHouse(autoSweep).zip"
+}
+]
