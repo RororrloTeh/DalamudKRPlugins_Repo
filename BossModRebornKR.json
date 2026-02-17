@@ -1,4 +1,5 @@
- {
+[
+{
     "Author": "The Combat Reborn Team",
     "Name": "BossMod Reborn",
     "InternalName": "BossModReborn",
@@ -31,3 +32,27 @@
     "Changelog": "## What's Changed\r\n* M12S Updates by @vuzeym in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1114\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.1.4...7.4.1.5",
     "DownloadCount": 2612847
   },
+ {
+    "Author": "veyn, xan_0",
+    "Name": "Boss Mod",
+    "Punchline": "Don't fail at raid mechanics anymore",
+    "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+    "Tags": [],
+    "InternalName": "BossMod",
+    "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+    "DownloadCount": 1593211,
+    "LastUpdate": 1770832437,
+    "DownloadLinkInstall": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/BossModKR.zip",
+    "DownloadLinkUpdate": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/BossModKR.zip",
+    "AssemblyVersion": "0.4.21.4",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "14",
+    "Changelog": "",
+    "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+      "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+      "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
+    ]
+  }
+]
