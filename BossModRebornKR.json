@@ -1,7 +1,7 @@
 [
 {
-    "Author": "The Combat Reborn Team",
-    "Name": "BossMod Reborn",
+    "Author": "The Combat Reborn Team, RororrloTeh(KR support)",
+    "Name": "BossMod Reborn (KR)",
     "InternalName": "BossModReborn",
     "Description": "A bunch of utilities to simplify boss mechanics",
     "ApplicableVersion": "any",
@@ -24,10 +24,10 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/BossModRebornKR.zip",
-    "AssemblyVersion": "7.4.1.5",
-    "DownloadLinkUpdate": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/BossModRebornKR.zip",
-    "DownloadLinkTesting": "https://github.com/RororrloTeh/DalamudKRPlugins_Repo/raw/refs/heads/main/BossModReborn-7.4.1.3.zip",
+    "DownloadLinkInstall": "https://github.com/RororrloTeh/BossmodReborn/releases/download/BossModRebornKR_7.4.5.18/BossModRebornKR.zip",
+    "AssemblyVersion": "7.4.5.18",
+    "DownloadLinkUpdate": "https://github.com/RororrloTeh/BossmodReborn/releases/download/BossModRebornKR_7.4.5.18/BossModRebornKR.zip",
+    "DownloadLinkTesting": "https://github.com/RororrloTeh/BossmodReborn/releases/download/BossModRebornKR_7.4.5.18/BossModRebornKR.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* M12S Updates by @vuzeym in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1114\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.1.4...7.4.1.5",
     "DownloadCount": 2612847
